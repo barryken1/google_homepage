@@ -1,0 +1,84 @@
+html {
+	font-family: arial,sans-serif;
+	font-size: 10px;
+	height:100%;
+	margin:0;
+}
+body {
+	font-size: 13px;
+	height: 100%;
+}
+#nav {
+	margin-top: 25px;
+
+}
+#nav-right {
+	float: right;
+}
+ span a {
+	text-decoration: none;
+	color: inherit;
+}
+a: hover {
+	text-decoration: underline;
+}
+#nav-left a {
+	padding-left: 15px;
+
+}
+#nav-right a {
+	padding-right: 15px;
+}
+#logo {
+	display: block;
+	margin: auto;
+
+}
+#main {
+	margin-top: 90px;
+}
+input[type="text"] {
+	display: block;
+	margin: auto;
+	width: 500px;
+	height: 24px;
+}
+ .button {
+  	margin: 24px auto;
+ 	width: 300px;
+}
+#main a {
+	text-decoration: none;
+}
+.altlang {
+	display: block;
+	margin: 24px auto;
+	width: 225px;
+}
+#footer{
+	margin-top: 235px;
+	padding-left: 15px;
+	font-size: 15px;
+}
+#bottomnav {
+	padding-top: 10px;
+}
+#business a {
+	padding-left: 15px;
+}
+#settings {
+	float:right;
+
+	
+
+}
+#settings  a {
+	
+	padding-right: 15px;
+
+}
+
+
+
+
+
